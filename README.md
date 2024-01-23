@@ -1,3 +1,8 @@
-# Challenge project - Build a minigame console app with GitHub Copilot
+# About
 
-Starter and Final code for the Challenge project: "Challenge project - Build a minigame console app with GitHub Copilot". To check the solution, change the branch to **Solution**.
+Is the famous game Rock, paper, scissor using `python`. Game is based on the console.
+
+To run: 
+```bash 
+  $ python app.py
+```

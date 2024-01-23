@@ -5,8 +5,6 @@ class Game:
   user_score = 0
   machine_score = 0
 
-
-
   def start(self):
     usr_choice = ""
     machine_choice = ""
@@ -25,7 +23,6 @@ class Game:
     if usr_input == "y":
       self.start()
     
-
   def __check_result(self, usr_choice: str, machine_choice: str):
     result = GameResults().check_result(usr_choice, machine_choice)
 
